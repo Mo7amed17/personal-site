@@ -155,3 +155,7 @@ window.onscroll=function(){
 arrowtoup.addEventListener("click",function(){
     scrollTo(0,0)
 })
+
+
+
+console.log(window.location.pathname)
