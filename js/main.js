@@ -157,5 +157,3 @@ arrowtoup.addEventListener("click",function(){
 })
 
 
-
-console.log(window.location.pathname)
